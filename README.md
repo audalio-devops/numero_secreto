@@ -1,7 +1,9 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura. 
+   Utiliza biblioteca de IA para falar em português os resultados das tentativas.</p>
+Para jogar, basta abrir o arquivo index.html no seu browser. 
 
 ## 🚀 Tecnologias
 <div>
